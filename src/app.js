@@ -1,12 +1,7 @@
 function View (container) {
-    return {
-        init () {
-
-        }
-    }
+  return {
+    init () {}
+  }
 }
 
-
-
-window.on('', (event) => {
-})
+window.on('', event => {})
